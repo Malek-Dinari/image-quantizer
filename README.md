@@ -81,8 +81,8 @@ image-quantizer/
 
 ### Current Goals
 
-  - Clean and organize the project for future expandability.
-  - Explore automated tests and CI/CD integration.
+  - Tidy-up and organize the project for future expandability.
+  - Conduct automated tests and CI/CD integration.
   - Experiment with additional clustering methods in notebooks/.
   
 ### Expandable Features
@@ -92,7 +92,7 @@ image-quantizer/
   Adding advanced quantization techniques such as:
     - Adaptive K-Means
     - Histogram-based quantization
-    - Integrating GUI support for easier interaction.
+    - Integrating GUI support (python or C++) for easier interaction.
     - Exploring dynamic clustering for improved results across a variety of images.
     - Supporting multi-threading for processing large datasets of images.
 
@@ -113,3 +113,4 @@ image-quantizer/
 ### License
 This project is licensed under the MIT License.
 
+Consult the LICENSE file for more license details.
