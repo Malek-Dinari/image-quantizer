@@ -104,6 +104,11 @@ image-quantizer/
   - Create feature branches.
   - Submit a pull request with your improvements.
 
+
+### Acknowledgments
+
+  The beautiful Horizon Zero Dawn screenshot used in this example is for educational and non-commercial purposes.
+  Inspired by the power of clustering techniques in machine learning.
     
 ### License
 This project is licensed under the MIT License.
